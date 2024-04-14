@@ -1,0 +1,26 @@
+/* Project.css */
+
+.project {
+    margin-bottom: 40px;
+  }
+  
+  .project-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .project-description {
+    margin-bottom: 15px;
+  }
+  
+  .project-links a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff; /* Link color */
+  }
+  
+  .project-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  

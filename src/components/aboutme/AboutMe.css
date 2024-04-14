@@ -1,0 +1,29 @@
+/* AboutMe.css */
+
+.about-me {
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .personal-info {
+    margin-top: 30px;
+  }
+  
+  .personal-info div {
+    margin-bottom: 10px;
+  }
+  

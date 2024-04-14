@@ -1,0 +1,28 @@
+.experience {
+    margin-top: 40px;
+  }
+  
+  .work-experience, .education, .certifications {
+    margin-bottom: 30px;
+  }
+  
+  .job, .degree, .certification {
+    margin-bottom: 20px;
+  }
+  
+  .job h4, .degree h4, .certification h4 {
+    margin-bottom: 5px;
+  }
+  
+  .job p, .degree p, .certification p {
+    margin-bottom: 10px;
+  }
+  
+  .job ul {
+    margin-top: 5px;
+  }
+  
+  .job li {
+    margin-bottom: 5px;
+  }
+  
