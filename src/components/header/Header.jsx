@@ -6,10 +6,12 @@ import './Header.css'; // Import CSS file for styling
 const Header = () => {
   return (
     <header className="header">
-      <div className="logo">
-        <img src="logo2.png" alt="Logo" />
-        <h1>Akash Srivastava</h1>
-      </div>
+         <a href="#about">
+            <div className="logo">
+                <img src="logo2.png" alt="Logo" />
+                <h1>Akash Srivastava</h1>
+            </div>
+         </a>
       <nav className="navigation">
         <ul>
           <li><a href="#about">About</a></li>

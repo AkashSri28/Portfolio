@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+section {
+  height: calc(100vh - 160px);
+  padding-top: 80px;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+
+  > *{
+    scroll-snap-align: start;
+  }
+}
+      
